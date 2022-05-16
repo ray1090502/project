@@ -1,1 +1,15 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  color: sandybrown;
+}
+
+p {
+  color: lightsteelblue;
+}
+/*# sourceMappingURL=style.css.map */
